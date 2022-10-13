@@ -1,9 +1,9 @@
-# <img align="left" alt="Cloud2Go" width="100px" src="https://cloud2go.tk/client/favicon/icon-144x144.png" draggable="false" /> Cloud2Go ([Click to try 🚀](https://cloud2go.tk/))
+# <img align="left" alt="Cloudspreed" width="100px" src="https://cloudspreed.tk/client/favicon/icon-144x144.png" draggable="false" /> Cloudspreed ([Click to try 🚀](https://cloudspreed.tk))
 
-Cloud2Go ☁️🔴 - Enjoy 20TB of free and secure Cloud Storage. 🚀
+Cloudspreed ☁️🌵 - a powerful cloud solution for your business 🦄 and individuall usage
 
-## **[Changelog ☁️](https://github.com/linkspreed/Cloud2Go/blob/main/changelog.md)** **Check out the full Cloud2Go changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Cloud2Go/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Cloud2Go besides development**
+## **[Changelog ☁️🌵](https://github.com/linkspreed/Cloudspreed/blob/main/changelog.md)** **Check out the full Cloudspreed changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Cloudspreed/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Cloudspreed besides development**
 
 
 <div align="center">
