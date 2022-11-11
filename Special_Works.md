@@ -1,3 +1,6 @@
+### 11.11.2022 (announcement Cloudspreed)
+- We have negotiations with Cloudflare - then we will release the new update!
+
 ### 02.11.2022 (announcement Cloudspreed)
 - We are very close to a new major update.
 
