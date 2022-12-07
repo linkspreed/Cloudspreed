@@ -1,3 +1,7 @@
+
+### 07.12.2022 (announcement Cloudspreed)
+- We're doing great work on **Cloudspreed**! 💚☁️
+
 ### 11.11.2022 (announcement Cloudspreed)
 - The new update will be available soon!
 
