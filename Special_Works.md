@@ -1,3 +1,5 @@
+### 07.12.2022 (announcement Cloudspreed)
+- Linkspreed 🧡 is going to release🚀v3.0.7 of **Cloudspreed** ☁️ tomorrow.
 
 ### 07.12.2022 (announcement Cloudspreed)
 - We're doing great work on **Cloudspreed**! 💚☁️
