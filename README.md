@@ -2,7 +2,7 @@
 
 Cloudspreed ☁️🌵 - a powerful cloud solution for your business 🦄 and individuall usage
 
-## **[Changelog ☁️🌵](https://github.com/linkspreed/Cloudspreed/blob/main/changelog.md)** **Check out the full Cloudspreed changelog**
+## **[Changelog ☁️🌵](https://github.com/linkspreed/Cloudspreed/blob/main/changelog.txt)** **Check out the full Cloudspreed changelog**
 ## **[Special Works 👨‍💻](https://github.com/linkspreed/Cloudspreed/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Cloudspreed besides development**
 
 
