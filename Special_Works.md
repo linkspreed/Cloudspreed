@@ -1,4 +1,7 @@
 ### 08.12.2022 (announcement Cloudspreed)
+- **Cloudspreed** has been added to the Google Search Console ... 
+
+### 08.12.2022 (announcement Cloudspreed)
 - We've added **Cloudspreed** completely to Cloudflare!
 
 ### 08.12.2022 (announcement Cloudspreed)
