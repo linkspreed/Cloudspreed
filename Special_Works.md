@@ -1,19 +1,19 @@
-### 29.11.2022 (announcement Cloudspreed)
+### 08.12.2022 (announcement Cloudspreed)
 - https://github.com/linkspreed/Cloudspreed/blob/main/changelog.txt
 - The entire changelog is now available on Github.
 
-### 29.11.2022 (announcement Cloudspreed)
+### 08.12.2022 (announcement Cloudspreed)
 - The launch of version 3.0.7 of **Cloudspreed** was successful! 🥳
 - The new update is live now :)
 - https://cloudspreed.tk 🔗
 
-### 29.11.2022 (announcement Cloudspreed)
+### 08.12.2022 (announcement Cloudspreed)
 - We are now starting the launch of v3.0.7.
 
-### 29.11.2022 (announcement Cloudspreed)
+### 08.12.2022 (announcement Cloudspreed)
 - The servers are now ready for the launch of version 3.0.7 for **Cloudspreed**.
 
-### 29.11.2022 (announcement Cloudspreed)
+### 08.12.2022 (announcement Cloudspreed)
 - The code is now ready for the launch of version 3.0.7 for **Cloudspreed**.
 
 ### 08.12.2022 (announcement Cloudspreed)
