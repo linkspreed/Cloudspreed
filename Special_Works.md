@@ -1,3 +1,9 @@
+### 08.12.2022 (announcement Cloudspreed)
+- We've added **Cloudspreed** completely to Cloudflare!
+
+### 08.12.2022 (announcement Cloudspreed)
+- Now we're working on **Cloudspreed**! 💚☁️
+
 ### 07.12.2022 (announcement Cloudspreed)
 - Linkspreed 🧡 is going to release🚀v3.0.7 of **Cloudspreed** ☁️ tomorrow.
 
