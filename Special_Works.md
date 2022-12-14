@@ -1,3 +1,6 @@
+### 14.12.2022 (announcement Cloudspreed)
+- We're working on a fix!
+
 ### 08.12.2022 (announcement Cloudspreed)
 - https://github.com/linkspreed/Cloudspreed/blob/main/changelog.txt
 - The entire changelog is now available on Github.
