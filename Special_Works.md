@@ -1,3 +1,6 @@
+### 15.12.2022 (announcement Cloudspreed)
+- We've finally found the bug on **Cloudspreed** and solved the issue...
+
 ### 14.12.2022 (announcement Cloudspreed)
 - We're working on a fix!
 
