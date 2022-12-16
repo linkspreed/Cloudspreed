@@ -1,4 +1,4 @@
-# <img align="left" alt="Cloudspreed" width="70px" src="https://cloudspreed.tk/storage/branding_media/c57e2e40-e8a6-41be-9234-a1e3087765d2.png" draggable="false" /> ([Click to try 🚀](https://cloudspreed.tk))
+# <img align="left" alt="Cloudspreed" width="50px" src="https://cloudspreed.tk/storage/branding_media/c57e2e40-e8a6-41be-9234-a1e3087765d2.png" draggable="false" /> ([Click to try 🚀](https://cloudspreed.tk))
 
 Cloudspreed ☁️🌵 - a powerful cloud solution for your business 🦄 and individuall usage
 
