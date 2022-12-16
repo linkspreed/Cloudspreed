@@ -1,4 +1,7 @@
 ### 16.12.2022 (announcement Cloudspreed)
+- The code is now ready for the launch of version 3.0.8 for **Cloudspreed**.
+
+### 16.12.2022 (announcement Cloudspreed)
 -  **Cloudspreed** gets a big update today - we are going to launch v3.0.8. 😍
 
 ### 16.12.2022 (announcement Cloudspreed)
