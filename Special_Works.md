@@ -1,4 +1,7 @@
 ### 16.12.2022 (announcement Cloudspreed)
+-  **Cloudspreed** gets a big update today - we are going to launch v3.0.8. 😍
+
+### 16.12.2022 (announcement Cloudspreed)
 - We're working on **Cloudspreed** now!
 
 ### 15.12.2022 (announcement Cloudspreed)
