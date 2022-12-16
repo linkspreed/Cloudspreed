@@ -1,4 +1,9 @@
 ### 16.12.2022 (announcement Cloudspreed)
+- The launch of version 3.0.8 of **Cloudspreed** was successful! 🥳
+- The new update is live now :)
+- https://cloudspreed.tk 🔗
+
+### 16.12.2022 (announcement Cloudspreed)
 - We are now starting the launch of v3.0.8.
 
 ### 16.12.2022 (announcement Cloudspreed)
