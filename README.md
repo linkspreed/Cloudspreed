@@ -1,6 +1,8 @@
-# <img align="left" alt="Cloudspreed" width="50px" src="https://cloudspreed.tk/storage/branding_media/c57e2e40-e8a6-41be-9234-a1e3087765d2.png" draggable="false" /> Cloudspreed ([Click to try 🚀](https://cloudspreed.tk))
+# <img align="left" alt="Cloudspreed" width="50px" src="https://cloudspreed.tk/storage/branding_media/c57e2e40-e8a6-41be-9234-a1e3087765d2.png" draggable="false" /> Cloudspreed ([Click to try 🚀](https://cloudspreed.tk)) - Decentralized (Web3) | (v3.0.8)
 
 Cloudspreed ☁️🌵 - a powerful cloud solution for your business 🦄 and individuall usage
+
+## Now **Cloudspreed** is completely decentralized and runs on a global, decentralized network!
 
 ## **[Changelog ☁️🌵](https://github.com/linkspreed/Cloudspreed/blob/main/changelog.txt)** **Check out the full Cloudspreed changelog**
 ## **[Special Works 👨‍💻](https://github.com/linkspreed/Cloudspreed/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Cloudspreed besides development**
