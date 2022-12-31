@@ -1,4 +1,9 @@
 ### 31.12.2022 (announcement Cloudspreed)
+- **Cloudspreed** has been successfully decentralized!  
+- Now use the big cloud completely decentralized!  
+- Faster, safer and modern!
+
+### 31.12.2022 (announcement Cloudspreed)
 - We are currently working on adding our intelligent cloud **Cloudspreed** to the decentralized file storage network!
 
 ### 16.12.2022 (announcement Cloudspreed)
