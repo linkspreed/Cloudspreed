@@ -1,3 +1,6 @@
+### 31.12.2022 (announcement Cloudspreed)
+- We are currently working on adding our intelligent cloud **Cloudspreed** to the decentralized file storage network!
+
 ### 16.12.2022 (announcement Cloudspreed)
 - https://github.com/linkspreed/Cloudspreed/blob/main/changelog.txt
 - The entire changelog is now available on Github.
