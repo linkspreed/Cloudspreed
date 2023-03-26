@@ -1,3 +1,27 @@
+### 26.03.2023 (announcement Cloudspreed)
+- 🌥️☁️ #Cloudspreed just released v3.0.9, bringing lightning-fast upload and download speeds to the cloud! Say goodbye to buffering and hello to seamless streaming! 📹🎬
+
+### 26.03.2023 (announcement Cloudspreed)
+- https://github.com/linkspreed/Cloudspreed/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 26.03.2023 (announcement Cloudspreed)
+- The launch of version 3.0.9 of **Cloudspreed** was successful! 🥳
+- The new update is live now :)
+- https://cloudspreed.tk 🔗
+
+### 26.03.2023 (announcement Cloudspreed)
+- We are now starting the launch of v3.0.9.
+
+### 26.03.2023 (announcement Cloudspreed)
+- The servers are now ready for the launch of version 3.0.9 for **Cloudspreed**.
+
+### 26.03.2023 (announcement Cloudspreed)
+- The code is now ready for the launch of version 3.0.9 for **Cloudspreed**.
+
+### 26.03.2023 (announcement Cloudspreed)
+-  **Cloudspreed** gets a big update today - we are going to launch v3.0.9. 😍
+
 ### 31.12.2022 (announcement Cloudspreed)
 - **Cloudspreed** has been successfully decentralized!  
 - Now use the big cloud completely decentralized!  
