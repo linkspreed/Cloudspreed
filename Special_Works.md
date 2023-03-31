@@ -1,3 +1,6 @@
+### 31.03.2023 (announcement Cloudspreed)
+- 🚀 Exciting news! We're conducting beta tests and trials for Cloudspreed's upcoming paid plans, set to launch on cloud platforms within the next 1-2 weeks. Stay tuned for more updates! 💻☁️ #Cloudspreed #BetaTesting #CloudPlatforms #PaidPlans #ComingSoon
+
 ### 26.03.2023 (announcement Cloudspreed)
 - 🌥️☁️ #Cloudspreed just released v3.0.9, bringing lightning-fast upload and download speeds to the cloud! Say goodbye to buffering and hello to seamless streaming! 📹🎬
 
