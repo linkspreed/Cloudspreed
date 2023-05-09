@@ -1,3 +1,6 @@
+### 09.05.2023 (announcement Cloudspreed)
+- 🔁 Hey there! We're temporarily redirecting Cloudspreed to our new Cloud ShareNode until we come up with a plan for Cloudspreed. Have you tried using our ShareNode yet? Let us know in the comments! 📨 #cloudstorage #newfeatures #innovations 💻
+
 ### 06.04.2023 (announcement Cloudspreed)
 - 🌥️☁️ #Cloudspreed just released v3.1.0, bringing lightning-fast upload and download speeds to the cloud! Say goodbye to buffering and hello to seamless streaming! 📹🎬
 
