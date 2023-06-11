@@ -1,3 +1,6 @@
+### 11.06.2023 (announcement Cloudspreed)
+- 🎉 Big news! We've added #Cloudspreed to our subdomain system! 👏 Don't worry, the platform remains the same - you can continue using it with all existing data. 👍 Check it out at https://cloudspreed.linkspreed.com. Any questions or feedback? Let us know in the comments! #techupdate 💻
+
 ### 09.05.2023 (announcement Cloudspreed)
 - 🔁 Hey there! We're temporarily redirecting Cloudspreed to our new Cloud ShareNode until we come up with a plan for Cloudspreed. Have you tried using our ShareNode yet? Let us know in the comments! 📨 #cloudstorage #newfeatures #innovations 💻
 
