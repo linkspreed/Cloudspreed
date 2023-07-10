@@ -1,3 +1,9 @@
+### 10.07.2023 (announcement [Clouds])
+- 🌩️📲 Ready to level up our cloud systems! We're kicking off the update to Version 3.1.1 today. 🚀 Excited to bring you enhanced features and improved performance! 🌟 Have you ever experienced a system update? Share your thoughts below! 👇 #CloudUpdate #TechTuesday
+
+### 10.07.2023 (announcement [Clouds])
+- 🔁 Exciting news! We have lifted the redirection from our cloud platforms to ShareNode. 🎉💻 Now you can enjoy uninterrupted access to all your favorite features. 🚀✨ Have you already explored ShareNode? Let us know your thoughts below! #CloudPlatform #ShareNode
+
 ### 11.06.2023 (announcement Cloudspreed)
 - 🎉 Big news! We've added #Cloudspreed to our subdomain system! 👏 Don't worry, the platform remains the same - you can continue using it with all existing data. 👍 Check it out at https://cloudspreed.linkspreed.com. Any questions or feedback? Let us know in the comments! #techupdate 💻
 
